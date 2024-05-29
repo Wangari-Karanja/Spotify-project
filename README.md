@@ -1,2 +1,2 @@
 # Spotify-project
-It's a simplilearn project to enhance our data skills
+This was to analyse Spotify's 2023 data.
